@@ -1,0 +1,26 @@
+{
+  "name": "portfoliopage",
+  "version": "1.0.0",
+  "description": "Portfolio Page",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marioclayton/Web-Portfolio.git"
+  },
+  "keywords": [
+    "Web",
+    "developer"
+  ],
+  "author": "Mario Clayton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marioclayton/Web-Portfolio/issues"
+  },
+  "homepage": "https://github.com/marioclayton/Web-Portfolio#readme",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
