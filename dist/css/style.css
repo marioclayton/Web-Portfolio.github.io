@@ -299,14 +299,14 @@ main{
 
 }
 
-@media only screen and (max-width: 1000px){
+@media (max-width: 1000px){
 	#menu li a {
 		font-size: 18px;
 		width: 120px;
 	}
 }
 
-@media only screen and (max-width: 720px){
+@media (max-width: 720px){
 
 	/*Navbar*/
 
